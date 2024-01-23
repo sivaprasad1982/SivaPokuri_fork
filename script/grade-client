@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Grade Client Repo testing siva
+# Grade Client Repo testing siva main
 
 # shellcheck disable=SC1091
 source "$HOME/.trainingmanualrc"
